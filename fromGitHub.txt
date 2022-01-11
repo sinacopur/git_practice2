@@ -1,0 +1,5 @@
+This is an awesome file I added directly from Github.com
+And now I am about to commit directly to Github.com remote repository
+This is not something we would do normally
+We are just trying to stimulate a situtation where remore repository is ahead of local repository history
+Remote has one additional commit that local repository doesnt have
